@@ -64,3 +64,57 @@ On Desktop2:
 
 
 ![Install Requests](./ad_3/p8.png)
+
+
+
+## Step 5: Initiate Remote Desktop Connection
+
+On the Helpdesk machine:
+
+1. Open Remote Desktop Connection
+2. Enter: Desktop2
+
+![Install Requests](./ad_3/p9.png)
+
+3. Authenticate as the Helpdesk domain user
+
+![Install Requests](./ad_3/p10.png)
+
+
+4. Accept prompt about connecting active helpdesk user session
+
+![Install Requests](./ad_3/p11.png)
+
+
+5. Disconnection prompt
+
+
+![Install Requests](./ad_3/p12.png)
+
+
+## To Conclude
+
+In this final part of the lab project, we successfully:
+
+- Simulated a common user issue (account lockout)
+
+- Used Active Directory tools to unlock the account and enforce a password reset
+
+- Enabled Remote Desktop on the client machine for remote support
+
+- Connected from the Helpdesk machine to the client using Remote Desktop
+
+This exercise reinforces essential troubleshooting workflows and remote management techniques that IT administrators use daily in a Windows Server environment.
+
+
+If you want to go back to Part 1 :🔗 [← Go to Part 1: Windows Server 2022 Setup](https://github.com/anthonydiazz/Server2022)
+
+
+
+
+
+
+
+
+
+
